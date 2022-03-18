@@ -5,7 +5,7 @@
 <hr>
 
 ```md
-    npm install -g yo generator-code
+npm install -g yo generator-code
 ```
 
 <hr>
@@ -13,5 +13,5 @@
 ### Run
 
 ```md
-    yo code
+yo code
 ```
